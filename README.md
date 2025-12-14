@@ -39,8 +39,6 @@ After cleaning the data, I explored it to understand trends and patterns in Coca
 
 
 
-
-
 ### Data Analysis
 
 I explored the cleaned dataset to uncover meaningful insights using Excel. Some of the key features and formulas I used include:
@@ -49,13 +47,22 @@ I explored the cleaned dataset to uncover meaningful insights using Excel. Some 
 - Conditional Formatting to highlight high and low sales numbers for easy visual understanding.
 - Charts and Graphs like column and line to visualize sales patterns and trends over time in the regions.
 
+
 ### Results
 
 The Analysis results are summerized as follows;
 - The Company's sales took a significant increase from 2022 to 2023, with a noticeable peak during the third quarter of 2023.
 - Coca-Cola is the best Beverage brand and Fizzy-Co is the best Retailer that improved among others in 2023 compared to 2022.
 - The West region has the most Total sales.
-  
+
+
+
+![screenshot](https://github.com/user-attachments/assets/ce4a219b-afe3-4e38-9afd-58a8c4a47358)
+
+![ssss](https://github.com/user-attachments/assets/a2046cb4-a587-4a33-9b39-4993fc4cc092)
+
+
+
 ### Recommendations 
 
 Based on the analysis, here are some recommendations;
