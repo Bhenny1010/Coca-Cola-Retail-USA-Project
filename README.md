@@ -37,6 +37,10 @@ In the initial data cleaning/preparation, I perfomred the following tasks;
 
 After cleaning the data, I explored it to understand trends and patterns in Coca Cola sales across the United States. I looked at how different Beverage brands were performing, which regions and Retail had higher sales, and how sales changed over time. I calculated totals, averages, and percentages to get a clear picture of performance. This step helped me uncover insights, spot interesting patterns, and figure out what to highlight in the visualizations and dashboard. It was all about making sense of the numbers and finding the story behind the data.
 
+
+
+
+
 ### Data Analysis
 
 I explored the cleaned dataset to uncover meaningful insights using Excel. Some of the key features and formulas I used include:
